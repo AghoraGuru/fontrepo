@@ -1,0 +1,9 @@
+/* Webfont: SourceSerifPro-Devanagari-Regular */@font-face {
+    font-family: 'SourceSerifProDevanagari';
+    src: url('SourceSerifPro-DevanagariRegular.woff2') format('woff2'), /* Modern Browsers */
+         url('SourceSerifPro-DevanagariRegular.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

@@ -1,0 +1,9 @@
+/* Webfont: BerlingskeSerif-Devanagari-Md */@font-face {
+    font-family: 'BerlingskeSerif-Devanagari-Md';
+    src: url('BerlingskeSerif-DevanagariMedium.woff2') format('woff2'), /* Modern Browsers */
+         url('BerlingskeSerif-DevanagariMedium.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
