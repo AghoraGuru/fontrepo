@@ -1,0 +1,9 @@
+/* Webfont: Upgrade-Devanagari-Medium */@font-face {
+    font-family: 'UpgradeDevanagariMedium';
+    src: url('Upgrade-Devanagari-Medium.woff2') format('woff2'), /* Modern Browsers */
+         url('Upgrade-Devanagari-Medium.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

@@ -1,0 +1,9 @@
+/* Webfont: Ubuntu-Devanagari-Medium */@font-face {
+    font-family: 'UbuntuDevanagariMedium';
+    src: url('Ubuntu-DevanagariMedium.woff2') format('woff2'), /* Modern Browsers */
+         url('Ubuntu-DevanagariMedium.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
