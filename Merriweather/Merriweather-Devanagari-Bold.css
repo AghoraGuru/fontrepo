@@ -1,0 +1,9 @@
+/* Webfont: Merriweather-Devanagari-Bold */@font-face {
+    font-family: 'Merriweather';
+    src: url('Merriweather-Devanagari-Bold.woff2') format('woff2'), /* Modern Browsers */
+         url('Merriweather-Devanagari-Bold.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+
