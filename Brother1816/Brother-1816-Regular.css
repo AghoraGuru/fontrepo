@@ -1,0 +1,9 @@
+/* Webfont: Brother-1816-Regular Devanagari */@font-face {
+    font-family: 'Brother1816Devanagari';
+    src: url('Brother-1816-Regular.woff2') format('woff2'), /* Modern Browsers */
+         url('Brother-1816-Regular.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

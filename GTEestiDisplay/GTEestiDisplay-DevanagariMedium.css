@@ -1,0 +1,9 @@
+/* Webfont: GTEestiDisplay-DevanagariMedium */@font-face {
+    font-family: 'GTEestiDisplayDevanagarMedium';
+    src: url('GTEestiDisplay-DevanagariMedium.woff2') format('woff2'), /* Modern Browsers */
+         url('GTEestiDisplay-DevanagariMedium.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
