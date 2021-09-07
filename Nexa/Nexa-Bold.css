@@ -1,0 +1,9 @@
+/* Webfont: Nexa-Bold-Devamagari */@font-face {
+    font-family: 'NexaBold-Devamagari';
+    src: url('Nexa-Bold.woff2') format('woff2'), /* Modern Browsers */
+         url('Nexa-Bold.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

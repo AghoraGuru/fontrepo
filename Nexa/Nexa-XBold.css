@@ -1,0 +1,9 @@
+/* Webfont: Nexa-XBold-Devanagari */@font-face {
+    font-family: 'NexaXBold-Devanagari';
+    src: url('Nexa-XBold.woff2') format('woff2'), /* Modern Browsers */
+         url('Nexa-XBold.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+
