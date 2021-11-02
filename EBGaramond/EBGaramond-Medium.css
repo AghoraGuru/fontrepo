@@ -1,0 +1,9 @@
+/* Webfont: EBGaramond-Medium-Devanagari */@font-face {
+    font-family: 'EBGaramondMedium';
+    src: url('EBGaramond-Medium.woff2') format('woff2'), /* Modern Browsers */
+         url('EBGaramond-Medium.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

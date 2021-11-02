@@ -1,0 +1,9 @@
+/* Webfont: OpenSans-Regular-Devanagari */@font-face {
+    font-family: 'OpenSans';
+    src: url('OpenSans-Regular.woff2') format('woff2'), /* Modern Browsers */
+         url('OpenSans-Regular.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
