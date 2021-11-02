@@ -1,0 +1,9 @@
+/* Webfont: OpenSans-SemiBold-Devanagari */@font-face {
+    font-family: 'OpenSansSemiBoldDevanagari';
+    src: url('OpenSans-SemiBold.woff2') format('woff2'), /* Modern Browsers */
+         url('OpenSans-SemiBold.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
