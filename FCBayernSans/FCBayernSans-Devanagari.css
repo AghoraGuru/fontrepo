@@ -1,9 +1,0 @@
-/* Webfont: FCBayernSans-DevanagariRegular */@font-face {
-    font-family: 'FCBayernSans';
-    src: url('FCBayernSans-Devanagari.woff2') format('woff2'), /* Modern Browsers */
-         url('FCBayernSans-Devanagari.otf') format('opentype'); /* Safari, Android, iOS */
-             font-style: normal;
-    font-weight: normal;
-    text-rendering: optimizeLegibility;
-}
-

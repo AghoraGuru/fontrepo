@@ -1,9 +1,0 @@
-/* Webfont: Recoleta-Devanagari-SemiBold */@font-face {
-    font-family: 'RecoletaDevanagariSemiBold';
-    src: url('Recoleta-DevanagariSemiBold.woff2') format('woff2'), /* Modern Browsers */
-         url('Recoleta-DevanagariSemiBold.otf') format('opentype'); /* Safari, Android, iOS */
-             font-style: normal;
-    font-weight: normal;
-    text-rendering: optimizeLegibility;
-}
-

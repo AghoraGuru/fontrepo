@@ -1,9 +1,0 @@
-/* Webfont: GuardianTextSans-Devanagari-Bold */@font-face {
-    font-family: 'GuardianTextSansDevanagari';
-    src: url('GuardianTextSans-DevanagariBold.woff2') format('woff2'), /* Modern Browsers */
-         url('GuardianTextSans-DevanagariBold.otf') format('opentype'); /* Safari, Android, iOS */
-             font-style: normal;
-    font-weight: bold;
-    text-rendering: optimizeLegibility;
-}
-

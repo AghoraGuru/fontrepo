@@ -1,9 +1,0 @@
-/* Webfont: Mart-Bold-Devanagari */@font-face {
-    font-family: 'MartDevanagari';
-    src: url('Mart-DevanagariBold.woff2') format('woff2'), /* Modern Browsers */
-         url('Mart-DevanagariBold.otf') format('opentype'); /* Safari, Android, iOS */
-             font-style: normal;
-    font-weight: bold;
-    text-rendering: optimizeLegibility;
-}
-
