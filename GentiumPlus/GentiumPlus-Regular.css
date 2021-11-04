@@ -1,0 +1,9 @@
+/* Webfont: GentiumPlus */@font-face {
+    font-family: 'GentiumPlus';
+    src: url('GentiumPlus-Regular.woff2') format('woff2'), /* Modern Browsers */
+         url('GentiumPlus-Regular.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
