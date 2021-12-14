@@ -1,0 +1,9 @@
+/* Webfont: EBGaramond-SemiBold-Devanagari */@font-face {
+    font-family: 'EBGaramondSemiBoldDevanagari';
+    src: url('EBGaramond-SemiBold.woff2') format('woff2'), /* Modern Browsers */
+         url('EBGaramond-SemiBold.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
